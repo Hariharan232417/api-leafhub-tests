@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-18T19:30:55 IST" name="Suite" finished-at="2023-09-18T19:35:12 IST" duration-ms="257054">
+    <groups>
+    </groups>
+    <test started-at="2023-09-18T19:30:55 IST" name="Test" finished-at="2023-09-18T19:35:12 IST" duration-ms="257054">
+      <class name="tests.rest.TC001_VerifyLogin">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:tests.rest.TC001_VerifyLogin@13e39c73]" started-at="2023-09-18T19:29:41 IST" name="beforeSuite" finished-at="2023-09-18T19:30:55 IST" duration-ms="74015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="setValues()[pri:0, instance:tests.rest.TC001_VerifyLogin@13e39c73]" started-at="2023-09-18T19:30:55 IST" name="setValues" finished-at="2023-09-18T19:31:16 IST" duration-ms="20753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.rest.TC001_VerifyLogin@13e39c73]" started-at="2023-09-18T19:31:54 IST" name="beforeClass" finished-at="2023-09-18T19:32:20 IST" duration-ms="25886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.rest.TC001_VerifyLogin@13e39c73]" started-at="2023-09-18T19:32:20 IST" name="beforeMethod" finished-at="2023-09-18T19:32:33 IST" duration-ms="13474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyLogin()[pri:0, instance:tests.rest.TC001_VerifyLogin@13e39c73]" started-at="2023-09-18T19:32:33 IST" name="verifyLogin" finished-at="2023-09-18T19:33:13 IST" duration-ms="39433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.rest.TC001_VerifyLogin@13e39c73]" started-at="2023-09-18T19:33:13 IST" name="afterMethod" finished-at="2023-09-18T19:33:14 IST" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:tests.rest.TC001_VerifyLogin@13e39c73]" started-at="2023-09-18T19:35:12 IST" name="afterSuite" finished-at="2023-09-18T19:35:12 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.rest.TC001_VerifyLogin -->
+      <class name="tests.rest.TC002_AddLearner">
+        <test-method is-config="true" signature="setValues()[pri:0, instance:tests.rest.TC002_AddLearner@64cd705f]" started-at="2023-09-18T19:31:29 IST" name="setValues" finished-at="2023-09-18T19:31:41 IST" duration-ms="12113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.rest.TC002_AddLearner@64cd705f]" started-at="2023-09-18T19:33:14 IST" name="beforeClass" finished-at="2023-09-18T19:34:52 IST" duration-ms="97363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.rest.TC002_AddLearner@64cd705f]" started-at="2023-09-18T19:34:52 IST" name="beforeMethod" finished-at="2023-09-18T19:35:11 IST" duration-ms="19336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addLearner()[pri:0, instance:tests.rest.TC002_AddLearner@64cd705f]" started-at="2023-09-18T19:35:11 IST" name="addLearner" finished-at="2023-09-18T19:35:11 IST" duration-ms="579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLearner -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.rest.TC002_AddLearner@64cd705f]" started-at="2023-09-18T19:35:11 IST" name="afterMethod" finished-at="2023-09-18T19:35:12 IST" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.rest.TC002_AddLearner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
